@@ -40,32 +40,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pra0110.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pra0115.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pra0117 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.pra0120.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pra0122.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pra0124.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pra0213.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pra1126.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pra112801.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/17798/PythonProjects/xhz_python&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.__init__.executor": "Run",
+    "Python.pra0110.executor": "Run",
+    "Python.pra0115.executor": "Run",
+    "Python.pra0117 (1).executor": "Run",
+    "Python.pra0120.executor": "Run",
+    "Python.pra0122.executor": "Run",
+    "Python.pra0124.executor": "Run",
+    "Python.pra0213.executor": "Run",
+    "Python.pra1126.executor": "Run",
+    "Python.pra112801.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/17798/PythonProjects/xhz_python",
+    "settings.editor.selected.configurable": "vcs.Git"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\17798\PythonProjects" />
