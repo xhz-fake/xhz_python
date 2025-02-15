@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a04e9f3-b6d4-4cf1-a25a-3cfd9af5f7d9" name="Changes" comment="0215_1 master commit">
+    <list default="true" id="0a04e9f3-b6d4-4cf1-a25a-3cfd9af5f7d9" name="Changes" comment="pra0215_1 master commit">
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/_2025_2_15_15_41___Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/_2025_2_15_15_42___Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2025_2_15_15_41_取消提交了更改_[Changes]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2025_2_15_15_42_取消提交了更改_[Changes]/shelved.patch" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -263,7 +267,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739534525840</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="pra0215_1 master commit">
+      <option name="closed" value="true" />
+      <created>1739613582636</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1739613582636</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -300,6 +312,7 @@
     <MESSAGE value="0214_2 commit" />
     <MESSAGE value="0214_4 commit" />
     <MESSAGE value="0214_3 hot-fix commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="0214_3 hot-fix commit" />
+    <MESSAGE value="pra0215_1 master commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="pra0215_1 master commit" />
   </component>
 </project>
