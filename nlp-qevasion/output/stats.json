@@ -1,0 +1,122 @@
+{
+  "qevasion": {
+    "train": {
+      "rows": 3448,
+      "dtypes": {
+        "title": "str",
+        "date": "str",
+        "president": "str",
+        "url": "str",
+        "question_order": "int64",
+        "interview_question": "str",
+        "interview_answer": "str",
+        "gpt3.5_summary": "str",
+        "gpt3.5_prediction": "str",
+        "question": "str",
+        "annotator_id": "str",
+        "annotator1": "str",
+        "annotator2": "str",
+        "annotator3": "str",
+        "inaudible": "bool",
+        "multiple_questions": "bool",
+        "affirmative_questions": "bool",
+        "index": "int64",
+        "clarity_label": "str",
+        "evasion_label": "str"
+      },
+      "missing": {
+        "question": 0,
+        "interview_answer": 0,
+        "clarity_label": 0,
+        "title": 0,
+        "president": 0
+      },
+      "empty": {
+        "question": 0,
+        "interview_answer": 0,
+        "clarity_label": 0,
+        "evasion_label": 0
+      },
+      "clarity": {
+        "Ambivalent": 2040,
+        "Clear Reply": 1052,
+        "Clear Non-Reply": 356
+      },
+      "evasion": {
+        "Explicit": 1052,
+        "Dodging": 706,
+        "Implicit": 488,
+        "General": 386,
+        "Deflection": 381,
+        "Declining to answer": 145,
+        "Claims ignorance": 119,
+        "Clarification": 92,
+        "Partial/half-answer": 79
+      },
+      "question_mean_chars": 84.49651972157773,
+      "answer_mean_chars": 1663.320475638051,
+      "exact_qa_duplicates": 58,
+      "titles": 175,
+      "presidents": 4
+    },
+    "test": {
+      "rows": 308,
+      "dtypes": {
+        "title": "str",
+        "date": "str",
+        "president": "str",
+        "url": "str",
+        "question_order": "int64",
+        "interview_question": "str",
+        "interview_answer": "str",
+        "gpt3.5_summary": "str",
+        "gpt3.5_prediction": "str",
+        "question": "str",
+        "annotator_id": "str",
+        "annotator1": "str",
+        "annotator2": "str",
+        "annotator3": "str",
+        "inaudible": "bool",
+        "multiple_questions": "bool",
+        "affirmative_questions": "bool",
+        "index": "int64",
+        "clarity_label": "str",
+        "evasion_label": "str"
+      },
+      "missing": {
+        "question": 0,
+        "interview_answer": 0,
+        "clarity_label": 0,
+        "title": 308,
+        "president": 308
+      },
+      "empty": {
+        "question": 0,
+        "interview_answer": 0,
+        "clarity_label": 0,
+        "evasion_label": 308
+      },
+      "clarity": {
+        "Ambivalent": 206,
+        "Clear Reply": 79,
+        "Clear Non-Reply": 23
+      },
+      "evasion": {
+        "": 308
+      },
+      "question_mean_chars": 88.48376623376623,
+      "answer_mean_chars": 1856.2532467532467,
+      "exact_qa_duplicates": 0,
+      "titles": 0,
+      "presidents": 0
+    },
+    "train_test_title_overlap": 0
+  },
+  "qnli": {
+    "full_train": 104743,
+    "full_validation": 5463,
+    "sample_train": 3448,
+    "sample_validation": 308
+  },
+  "data_revision": "3afc18f0b582b3cfdb927822cff57ddc6e871f9c"
+}

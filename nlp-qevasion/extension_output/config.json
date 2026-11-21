@@ -1,0 +1,26 @@
+{
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "sklearn": "1.9.1",
+  "numpy": "2.5.5",
+  "platform": "Windows-11-10.0.26300-SP0",
+  "seeds": [
+    42,
+    52,
+    62
+  ],
+  "ratios": [
+    0.1,
+    0.3,
+    1.0
+  ],
+  "official_qnli_train": 104743,
+  "official_qnli_validation": 5463,
+  "label_semantics": {
+    "0": "entailment",
+    "1": "not_entailment"
+  },
+  "protocol": "All models/parameters fixed in advance. Nested stratified samples. Official validation used for reporting only. 100% fitted once because identical data and deterministic estimator.",
+  "pretrained": "Frozen truncated GloVe 6B 50d, max 192 words each, [q,a,abs(q-a),q*a]",
+  "tfidf": "word ngram 1-2, min_df 2, max_features 40000, sublinear_tf True",
+  "classifier": "LogisticRegression(max_iter=1000, random_state=42, default other parameters)"
+}

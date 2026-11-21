@@ -1,0 +1,26 @@
+{
+  "seed": 42,
+  "tfidf": "word 1-2 grams, min_df=2, max_features=40000, sublinear_tf=True",
+  "pretrained": "GloVe 6B 50d (antokun/glove.6B.50d revision ab51545236b5a21a48a8d604f05af082fded839d), first 8000000 bytes (~18712 common words), mean pooling, max 192 words per side, concat [q,a,abs(q-a),q*a]",
+  "dataset_adapters": {
+    "QEvasion": {
+      "text_a": "question",
+      "text_b": "interview_answer",
+      "label": "clarity_label",
+      "group": "title"
+    },
+    "QNLI": {
+      "text_a": "question",
+      "text_b": "sentence",
+      "label": "label",
+      "group": null
+    }
+  },
+  "qnli_revision": "bcdcba79d07bc864c1c254ccfcedcce55bcc9a8c",
+  "qnli_sampling": "3448 official train and 308 official validation, independent seed 42",
+  "label_bridge": {
+    "Clear Reply": 0,
+    "Ambivalent": 1,
+    "Clear Non-Reply": 1
+  }
+}
